@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello world! 👋 I'm Joshua Sabik
+**Business analyst / Data analyst / Math teacher**
+
+- 🔭 I’m currently working on analyzing public education datasets.
+- 🌱 I’m currently learning webscraping using beautiful soup in R, and creating dashboards in Shiny.
+- ⚡ Fun fact: I am a licensed amateur (HAM) radio operator. My call sign is KE5VCH.
+
 
 <!--
 **jsabik/jsabik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
