@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on analyzing public education datasets.
 - 🌱 I’m currently learning webscraping using beautiful soup in R, and creating dashboards in Shiny.
-- ⚡ Fun fact: I am a licensed amateur (HAM) radio operator. My call sign is KE5VCH.
+- ⚡ Fun fact: I am a licensed amateur (HAM) radio operator. My call sign is N0OOB.
 
 
 <!--
